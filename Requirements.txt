@@ -1,0 +1,6 @@
+Anaconda - Latest version
+1.Poppler - Conda install poppler
+2.pdf2image - pip install pdf2image
+3.opencv  - pip install opencv-python
+
+Requirements will be added
