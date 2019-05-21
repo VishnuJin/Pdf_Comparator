@@ -1,4 +1,7 @@
-create sample pdf docs - Suruthi
-convert pdf to image - Vishnu
-compare converted images - Vishnu
+Module - 1  #Inputs
+  create sample pdf docs - Suruthi
+Module - 2 #Core Functionality
+  convert pdf to image - Vishnu
+  compare converted images - Vishnu
+Module - 3 #Testing
 view, Review, Result - Christina
